@@ -71,7 +71,7 @@ https://user-images.githubusercontent.com/63164037/193985341-85f57456-6057-4444-
 
 <h2 align="center">Kumar Prabhakar</h2>
 <p align="center">
-  <a href="https://github.com/KUMAR-PRABHAKAR"><img src="https://avatars.githubusercontent.com/u/63164037?v=4" width=150px height=150px  alt="Kumar Prabhakar"/></a> 
+  <a href="https://github.com/KUMAR-PRABHAKAR"><img src="#" width=150px height=150px  alt="Kumar Prabhakar"/></a> 
 
 <p align="center">
   <a target="_blank" href="https://www.linkedin.com/in/kumar-prabhakar-988a7b1a0"><img src="https://img.shields.io/badge/linkedin-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white"  alt="Kumar Prabhakar"/></a>&nbsp;&nbsp;&nbsp;
