@@ -71,7 +71,7 @@ https://user-images.githubusercontent.com/63164037/193985341-85f57456-6057-4444-
 
 <h2 align="center">Kumar Prabhakar</h2>
 <p align="center">
-  <a href="https://github.com/KUMAR-PRABHAKAR"><img src="https://www.linkedin.com/in/kumar-prabhakar-988a7b1a0/overlay/background-image/" width=350px height=150px  alt="Aditya Bhardwaj"/></a> 
+  <a href="https://github.com/KUMAR-PRABHAKAR"><img src="https://github.com/KUMAR-PRABHAKAR/DSA-Tracker/blob/main/Snapchat-1986.png.jpg" width=140px height=200px  alt="Kumar Prabhakar"/></a> 
 
 
 <p align="center">
