@@ -10,7 +10,7 @@ const ultimateData = {
                 {
                     quote:'The relationship between you and your program decide by the time and space complexities, The lower the complexity, the better the relationship between your Program and code.',
                     author:'Kumar Prabhakar',
-                }
+                },
                 {
                     quote: 'Whatever the mind of man can conceive and believe, it can achieve.',
                     author: 'Napoleon Hill',
